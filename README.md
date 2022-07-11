@@ -1,5 +1,8 @@
 # curriculo
 Segunda aula de git
+
+## Para voltar para o branch principal
+`git checkout main`
  
 ## Para adicionar os arquivos
 
