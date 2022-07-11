@@ -8,6 +8,14 @@ Segunda aula de git
 
 `git pull origin branch` (main)
 
+## Para criar um novo branch
+
+`git branch branch`
+
+## Para criar e entrar na branch nova
+
+`git checkout -b branch`
+
 ---
 Agora você altera e/ou cria os arquivos conforme a solicitação do cliente e depois segue o processo abaixo
 ---
